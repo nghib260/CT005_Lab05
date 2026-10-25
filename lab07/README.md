@@ -16,5 +16,5 @@ https://docs.google.com/forms/d/e/1FAIpQLSelrityi5AEtj7IJnUtIvv3MQLa5Jl6dHUBwpeQ
    https://sites.google.com/student.ctu.edu.vn/gioi-thieu-nguyen-trong-nghi/trang-ch%E1%BB%A7
 
 4. Bảng quản lý dự án Trello:
-https://trello.com/b/9NfpVG5Q/ke-hoach-du-an-lab-07
+[https://trello.com/b/9NfpVG5Q/ke-hoach-du-an-lab-07](https://trello.com/invite/b/6ac21660ebe69c5fc4f8091a/ATTI35a6cf124bc1fd8c73f370a894272e335AAC96E1/kế-hoạch-dự-an-lab-07)
   
